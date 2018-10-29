@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidUITechTest</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_task_title">Add task</string>
+    <string name="add_task_subtitle">Add a new task to your list</string>
+    <string name="task_options_complete">Complete</string>
+    <string name="task_options_delete">Delete</string>
+</resources>
